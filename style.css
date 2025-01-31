@@ -799,4 +799,16 @@ button:hover {
 .language{
     margin-left:10px ;
 }
+.play_albums{
+    display: none;
+}
+.play{
+    display: none;
+}
+.albums{
+    margin-right: 10px;
+}
+.artist{
+    margin-right: 10px;
+}
 }
